@@ -6,7 +6,7 @@
 - 🌏 **Seoul**, Republic of Korea
 - 🌱 currently learning **Stateful Server Programming**, **Algorithm**
 - 👀 interested in **👾Game**, **🎵Music**
-- 📫 Contact : dosoon.in.cp@gmail.com
+- 📫 to contact me dosoon.in.cp@gmail.com
 
 <!---
 Dosoon/Dosoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

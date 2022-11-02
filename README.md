@@ -5,7 +5,7 @@
 - 👩‍🎓 majored in **IT Engineering**, **Sookmyung Women's University**
 - 🌏 **Seoul**, Republic of Korea
 - 🌱 currently learning **Stateful Server Programming**, **Algorithm**
-- 👀 interested in **👾Game**, **🎵Music**, **🎨
+- 👀 interested in **👾Game**, **🎵Music**, **🎨Drawing**
 - 📫 to contact me dosoon.in.cp@gmail.com
 
 <!---

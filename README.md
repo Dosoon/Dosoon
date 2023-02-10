@@ -1,6 +1,7 @@
 # 👋 Hello World
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-JAVA-007396?style=flat&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white"> 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dosoon_in_cp">
+<a href="https://solved.ac/profile/dosoon_in_cp" target="_blank">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dosoon_in_cp"> </a>
 ## ❄Dosoon
 - 👩‍🎓 majored in **IT Engineering**, **Sookmyung Women's University**
 - 🌏 **Seoul**, Republic of Korea

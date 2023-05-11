@@ -15,8 +15,7 @@
 - 👀 interested in **👾Game**, **🎵Music**, **🎨Drawing**
 
 ---
-![header](https://capsule-render.vercel.app/api?type=transparent&color=0:F28585,60:F2C6C2,90:F2B263,100:F2B263&height=80&animation=fadeIn&section=footer&text=📚%20Tech%20Stack&fontAlign=15&fontColor=ffffff&fontSize=40)
-
+![header](https://capsule-render.vercel.app/api?type=transparent&color=0:F28585,60:F2C6C2,90:F2B263,100:F2B263&height=50&animation=fadeIn&section=footer&text=📚%20Tech%20Stack&fontAlign=15&fontColor=ffffff&fontSize=40)
 ```
 💻 기술의 숙련도를 상, 중, 하를 기준으로 나누었습니다.
 

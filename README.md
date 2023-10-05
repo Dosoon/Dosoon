@@ -11,7 +11,8 @@
 - 👩‍🎓 majored in **IT Engineering**, **Sookmyung Women's University**
 - 💻 **Stateful Server** & **BackEnd** Programming
 - 🌏 **Seoul**, Republic of Korea
-- 🌱 **SSAFY 9th** (삼성 청년 SW 아카데미), **Java 전공** 트랙
+- 🌱 **SSAFY 9th** (삼성 청년 SW 아카데미), **Java 전공** 트랙 1학기 수료
+- 👾 **Com2us** 인턴십 Genius 5기 게임서버 직군 수료
 - 👀 interested in **👾Game**, **🎵Music**, **🎨Drawing**
 
 ---
